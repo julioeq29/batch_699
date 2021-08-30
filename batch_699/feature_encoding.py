@@ -1,4 +1,4 @@
 import pandas as pd
 
 def adding(x):
-  return x + x
+  return x + x + x
